@@ -1,0 +1,14 @@
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\bin\Debug\net10.0\terminal.exe
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\bin\Debug\net10.0\terminal.deps.json
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\bin\Debug\net10.0\terminal.runtimeconfig.json
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\bin\Debug\net10.0\terminal.dll
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\bin\Debug\net10.0\terminal.pdb
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.AssemblyInfoInputs.cache
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.AssemblyInfo.cs
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.dll
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\refint\terminal.dll
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.pdb
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\terminal.genruntimeconfig.cache
+C:\Users\Pedro Antonio\Documents\terminaldesuporte\terminal\obj\Debug\net10.0\ref\terminal.dll
